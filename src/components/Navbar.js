@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/Navbar.css";
 import { BsBellFill } from "react-icons/bs";
-import { FaUserAlt } from "react-icons/fa";
 import logo from "../Static/logo.png";
 import dummy_photo from "../Static/dummy_photo.png"
 
