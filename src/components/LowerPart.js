@@ -67,7 +67,7 @@ function LowerPart() {
   <div class="c10">No</div>
 </div>
   <div class="btn">
-    <a href="#"><i class="fas fa-plus"></i>Add Surgery</a>
+    <button><i class="fas fa-plus"></i>Add Surgery</button>
   </div>
       </div>
     </div>
